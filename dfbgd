@@ -1,0 +1,74 @@
+const songs = [
+    {
+        id: 1,
+        song_name: `<p>Jai Shri Ram <br>Prabhas</p>`,
+        album: "Albums/1.jpg",
+        movie_name: "Adipurush"
+    },
+    {
+        id: 2,
+        song_name: `<p>Vinaraa <br>Prabhas</p>`,
+        album: "Albums/2.jpg",
+        movie_name: "Salaar"
+    },
+    {
+        id: 3,
+        song_name: `<p>Dosti <br>Ntr and Ramcharan</p>`,
+        album: "Albums/3.jpg",
+        movie_name: "RRR"
+    },
+    {
+        id: 4,
+        song_name: `<p>Raghunandhana <br>Teja Sajja</p>`,
+        album: "Albums/4.jpg",
+        movie_name: "Hanuman"
+    },
+    {
+        id: 5,
+        song_name: `<p>Oh Sita Hey Rama <br>DQ Salman</p>`,
+        album: "Albums/5.jpg",
+        movie_name: "Sita Ramam"
+    },
+    {
+        id: 6,
+        song_name: `<p>Mawa Enthaina <br>Mahesh Babu</p>`,
+        album: "Albums/6.jpg",
+        movie_name: "Guntur kaaram"
+    },
+    {
+        id: 7,
+        song_name: `<p>Oo Antava.. Oo Oo antava.. <br>Allu Arjun</p>`,
+        album: "Albums/7.jpeg",
+        movie_name: "Pushpa"
+    },
+    {
+        id: 8,
+        song_name: `<p>Radhika <br>Siddu Buoy</p>`,
+        album: "Albums/8.jpg",
+        movie_name:"Tillu Square"
+    },
+    {
+        id: 9,
+        song_name: `<p>Adigaa <br>Nani</p>`,
+        album: "Albums/9.jpg",
+        movie_name: "Hi Nanna"
+    },
+    {
+        id: 10,
+        song_name: `<p>Gumma <br>Suhass</p>`,
+        album: "Albums/10.jpg",
+        movie_name: "Ammbajipet Marraige band"
+    },
+    {
+        id: 11,
+        song_name: `<p>Chitti <br>Naveen</p>`,
+        album: "Albums/11.jpg",
+        movie_name: "Jathiratnalu"
+    },
+    {
+        id: 12,
+        song_name: `<p>Kalyani Vacha Vachaa <br>Vijay Devarakonda</p>`,
+        album: "Albums/12.jpg",
+        movie_name: "The Family Star"
+    },
+]
